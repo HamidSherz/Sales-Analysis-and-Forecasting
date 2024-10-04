@@ -16,7 +16,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesProfitabilityDashboard_17280732098650/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Data Structure & Initial Checks
-The company’s main database structure consists of the following key data tables, with a total row count of approximately 10,000 records in the sample used. Each table has been used to generate insights for this project.
+The company’s main database structure consists of the following key data tables, with a total row count of approximately 10,000 records in the data sample used. Each table has been used to generate insights for this project.
 
 - **Sales Data**: Contains transactional data, including information about customer orders, product categories, sales, and profit values.
 - **Customer Data**: Information about customer demographics, such as region, customer name, segment, and province.
@@ -27,75 +27,75 @@ The company’s main database structure consists of the following key data table
 
 ## Executive Summary
 ### Overview of Findings
-1. **Profit Peaks and Cyclical Trends**: Technology continues to drive profit peaks (latest in 2012 Q3) with forecasts indicating sustained performance, while Furniture faces ongoing profitability issues.
+**Profit Peaks and Cyclical Trends**: Technology continues to drive profit peaks (latest in 2012 Q3) with forecasts indicating sustained performance, while Furniture faces ongoing profitability issues.
 
-2. **Customer and Product Profitability**: The Corporate segment leads in profit generation, and Technology is the most profitable category. Atlantic, with a profit margin of 11.9%, reflects efficient operations despite lower sales of $2 million, while Furniture lags in efficiency, requiring attention. 
+**Customer and Product Profitability**: The Corporate segment leads in profit generation, and Technology is the most profitable category. Atlantic, with a profit margin of 11.9%, reflects efficient operations despite lower sales of $2 million, while Furniture lags in efficiency, requiring attention. 
 
-3. **Regional Sales and Profitability**: Ontario and the Prairies yield strong profits relative to sales, while the Northwest boasts the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggles with lower profitability due to underperforming customers in the Technology category.
+**Regional Sales and Profitability**: Ontario and the Prairies yield strong profits relative to sales, while the Northwest boasts the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggles with lower profitability due to underperforming customers in the Technology category.
 
 ![Executive Summary](Visuals/Executive_summary.JPG)
 
 ## Insights Deep Dive
 ### Category 1: Overall Sales Performance
-1. Technology experienced strong cyclical peaks, with 2012 Q3 marking the highest sales and profit figures. These peaks appear approximately every 12 months, suggesting a recurring trend in demand.
+- Technology experienced strong cyclical peaks, with 2012 Q3 marking the highest sales and profit figures. These peaks appear approximately every 12 months, suggesting a recurring trend in demand.
 
-2. Discounting that started in late 2010 triggered slight sales and profit increases for Technology and Office Supplies, but had a detrimental effect on Furniture, where profits dropped below zero, indicating that discounting adversely impacted Furniture’s profitability.
+- Discounting that started in late 2010 triggered slight sales and profit increases for Technology and Office Supplies, but had a detrimental effect on Furniture, where profits dropped below zero, indicating that discounting adversely impacted Furniture’s profitability.
 
-3. Technology products consistently recorded the highest profits, notably peaking at approximately $64,000 in 2012 Q3. This highlights Technology's critical contribution to overall profitability during key periods.
+- Technology products consistently recorded the highest profits, notably peaking at approximately $64,000 in 2012 Q3. This highlights Technology's critical contribution to overall profitability during key periods.
 
-4. Forecasting suggests focusing on Technology for sustained profitability, with Furniture showing potential for recovery and Office Supplies maintaining its stable contribution to overall performance.
+- Forecasting suggests focusing on Technology for sustained profitability, with Furniture showing potential for recovery and Office Supplies maintaining its stable contribution to overall performance.
 
 ![Category 1 Insights](Visuals/Category_1.JPG)
 
 ### Category 2: Customer Segment Analysis
-1. **Corporate**: Leading the profit race, the Corporate segment generated $600,015 in profits from $5.5M in sales, with a 10.9% profit margin. This demonstrates its efficiency and high profitability, despite only contributing 30% of total sales.
+- **Corporate**: Leading the profit race, the Corporate segment generated $600,015 in profits from $5.5M in sales, with a 10.9% profit margin. This demonstrates its efficiency and high profitability, despite only contributing 30% of total sales.
 
-2. **Small Business**: With $2.7M in sales, Small Business displayed strong growth, particularly in 2009 Q4, where profits spiked despite stable sales, indicating potential for future profit-driven strategies.
+- **Small Business**: With $2.7M in sales, Small Business displayed strong growth, particularly in 2009 Q4, where profits spiked despite stable sales, indicating potential for future profit-driven strategies.
 
-3. **Consumer**: Although achieving $3 million in sales, this segment has experienced volatile profitability, particularly a dip in 2010 Q3, possibly linked to challenges in the Furniture category, highlighting the need for improved strategies to boost profit margins.
+- **Consumer**: Although achieving $3 million in sales, this segment has experienced volatile profitability, particularly a dip in 2010 Q3, possibly linked to challenges in the Furniture category, highlighting the need for improved strategies to boost profit margins.
 
-4. **Home Office**: Demonstrating consistent growth, Home Office profits more than doubled from $13,000 in 2009 Q1 to $36,000 in 2012 Q1, despite stable sales during this period. This indicates potential improvements in cost management or pricing strategy, suggesting further investment could maximize returns.
+- **Home Office**: Demonstrating consistent growth, Home Office profits more than doubled from $13,000 in 2009 Q1 to $36,000 in 2012 Q1, despite stable sales during this period. This indicates potential improvements in cost management or pricing strategy, suggesting further investment could maximize returns.
 
 ![Category 2 Insights](Visuals/Category_2.JPG)
 
 ### Category 3: Product Category Profitability
-1. Technology led in profitability with $885,000 in profits from $5.97M in sales, resulting in a 14.8% profit margin. The average profit peaked at $569 in 2012 Q3, reinforcing Technology's critical role in the product portfolio.
+- Technology led in profitability with $885,000 in profits from $5.97M in sales, resulting in a 14.8% profit margin. The average profit peaked at $569 in 2012 Q3, reinforcing Technology's critical role in the product portfolio.
 
-2. Office Supplies delivered $518,000 in profits from $3.75M in sales, translating to a 13.8% profit margin. Though slightly lower than Technology, this category remains stable and dependable, with an average profit of around $120.
+- Office Supplies delivered $518,000 in profits from $3.75M in sales, translating to a 13.8% profit margin. Though slightly lower than Technology, this category remains stable and dependable, with an average profit of around $120.
 
-3. Furniture underperformed, generating only $117,000 in profits from $5.17M in sales, resulting in a mere 2.3% profit margin. The significant drop in late 2010 suggests discounting had a more pronounced negative effect on this category compared to others.
+- Furniture underperformed, generating only $117,000 in profits from $5.17M in sales, resulting in a mere 2.3% profit margin. The significant drop in late 2010 suggests discounting had a more pronounced negative effect on this category compared to others.
 
-4. The performance disparity across categories indicates that improving Furniture's efficiency, perhaps through revised pricing or cost management strategies, could enhance overall profitability.
+- The performance disparity across categories indicates that improving Furniture's efficiency, perhaps through revised pricing or cost management strategies, could enhance overall profitability.
 
 ![Category 3 Insights](Visuals/Category_3.JPG)
 
 ### Category 4: Customer Profitability Insights
 #### Top 10 Customers by Highest Profit Margins:
-1. **Profit Margin Overview**: The top 10 customers recorded margins between 36.4% and 40.4%, highlighting efficient cost management and pricing strategies.
+- The top 10 customers recorded margins between 36.4% and 40.4%, highlighting efficient cost management and pricing strategies.
 
-2. **Gregg Hansen**: Stands out with the highest profit margin of 40.4%, generating $6,000 in profits from $14,000 in sales. Despite lower overall profits, his margin reflects cost control.
+- **Gregg Hansen**: Stands out with the highest profit margin of 40.4%, generating $6,000 in profits from $14,000 in sales. Despite lower overall profits, his margin reflects cost control.
 
-3. **Karen Carlile**: Contributed the highest absolute profit, earning $22,000 from $59,000 in sales, with a 36.6% profit margin, showing her significant impact on total profitability.
+- **Karen Carlile**: Contributed the highest absolute profit, earning $22,000 from $59,000 in sales, with a 36.6% profit margin, showing her significant impact on total profitability.
 
-4. **Andy Reiter**: Ranked third, achieved a profit margin of 39.6%, generating $15,000 from $37,000 in sales, aligning with the overall strength of the Technology category.
+- **Andy Reiter**: Ranked third, achieved a profit margin of 39.6%, generating $15,000 from $37,000 in sales, aligning with the overall strength of the Technology category.
 
 #### Top 10 Customers with Lowest Net Profit Margins:
-1. The lowest 10 customers had negative margins ranging from -57.9% to -106.6%, indicating severe losses.
+- The lowest 10 customers had negative margins ranging from -57.9% to -106.6%, indicating severe losses.
 
-2. **Bradley Talbott**: Reported the worst margin of -106.6%, with losses of $3,000 on sales of $2,655, highlighting critical issues such as pricing or product defects.
+- **Bradley Talbott**: Reported the worst margin of -106.6%, with losses of $3,000 on sales of $2,655, highlighting critical issues such as pricing or product defects.
 
-3. **Laurel Workman**: Sustained heavy losses of $13,000 with a margin of -59.5% from $21,000 in sales, reflecting issues likely linked to negative profitability trends in Technology as seen earlier.
+- **Laurel Workman**: Sustained heavy losses of $13,000 with a margin of -59.5% from $21,000 in sales, reflecting issues likely linked to negative profitability trends in Technology as seen earlier.
 
 ![Category 4 Insights](Visuals/Category_4.JPG)
 
 ### Category 5: Regional Sales Distribution
-1. Ontario led in profitability with $347,000 from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
+- Ontario led in profitability with $347,000 from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
 
-2. The West achieved the highest sales at $4M but ranked third in profit with $297,000, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
+- The West achieved the highest sales at $4M but ranked third in profit with $297,000, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
 
-3. The Atlantic generated nearly half of the West’s sales but achieved similar profits, indicating a stronger profit-to-sales ratio, reflecting efficient operations in this region. Additionally, the Northwest region boasts the highest profit margin at 12.6%, although it has lower sales of $0.8 million.
+- The Atlantic generated nearly half of the West’s sales but achieved similar profits, indicating a stronger profit-to-sales ratio, reflecting efficient operations in this region. Additionally, the Northwest region boasts the highest profit margin at 12.6%, although it has lower sales of $0.8 million.
 
-4. Other regions maintained profit margins close to 10%, with Yukon significantly underperforming, possibly due to higher costs or weak sales of high-margin products.
+- Other regions maintained profit margins close to 10%, with Yukon significantly underperforming, possibly due to higher costs or weak sales of high-margin products.
 
 ![Category 5 Insights](Visuals/Category_5.JPG)
 
@@ -114,7 +114,11 @@ Based on the insights and findings above, I recommend the following actions:
 
 ## Assumptions and Caveats
 Throughout the analysis, the following assumptions were made:
-1. **Assumption 1**: Missing data for certain regions was assumed to be from the company's headquarters province, which could potentially impact regional analysis.
-2. **Assumption 2**: It was assumed that customer demographics remained relatively stable over the analyzed period, allowing for consistent comparisons across different customer segments.
-3. **Assumption 3**: The sales and profit data were assumed to be accurately recorded, with no significant errors in the transactional records that could distort the analysis.
-4. **Assumption 4**: Product defects or aging inventory were considered likely factors contributing to negative profit margins in specific regions, necessitating further investigation and remedial action.
+
+- Missing data for certain regions was assumed to be from the company's headquarters province, which could potentially impact regional analysis.
+
+- It was assumed that customer demographics remained relatively stable over the analyzed period, allowing for consistent comparisons across different customer segments.
+
+- The sales and profit data were assumed to be accurately recorded, with no significant errors in the transactional records that could distort the analysis.
+
+- Product defects or aging inventory were considered likely factors contributing to negative profit margins in specific regions, necessitating further investigation and remedial action.

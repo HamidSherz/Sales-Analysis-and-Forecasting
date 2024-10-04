@@ -1,5 +1,5 @@
 # Sales and Profitability Analysis
-![Banner](Visuals/Sales1.JPG)
+![Sales1](Visuals/Theme2.jpg)
 
 ## Project Background
 This analysis focuses on sales performance for a decade-long e-commerce company specializing in Furniture, Office Supplies, and Technology. It aims to provide strategic insights for stakeholders, including executives and marketing teams, looking to optimize sales strategies and enhance profitability. The analysis targets **Total Sales**, **Total Profit**, and **Net Profit Margin**, with **Net Profit Margin** serving as the North Star Metric due to its crucial role in indicating operational efficiency, while **Total Profit** offers a direct measure of the company's overall profitability. 

@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - Customer Profitability 
 - Regional Sales Distribution
 
-The **SQL queries** used to inspect and clean the data for this analysis can be found [here]
+The **SQL queries** used to inspect and clean the data for this analysis can be found [here](./data_cleanup.sql).
 
 An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesProfitabilityDashboard_17280732098650/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 

@@ -11,19 +11,15 @@ Insights and recommendations are provided on the following key areas:
 - Customer Profitability 
 - Regional Sales Distribution
 
-The **SQL queries** used to inspect and clean the data for this analysis can be found [here](./data_cleanup.sql).
 
 An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesProfitabilityDashboard_17280732098650/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Data Structure & Initial Checks
-The company’s main database structure consists of the following key data tables, with a total row count of approximately 10,000 records in the data sample used. Each table has been used to generate insights for this project.
-
-- **Sales Data**: Contains transactional data, including information about customer orders, product categories, sales, and profit values.
-- **Customer Data**: Information about customer demographics, such as region, customer name, segment, and province.
-- **Product Data**: Detailed data on product categories, sub-categories, names, and base margins.
-- **Order Data**: Includes order IDs, order dates, customer IDs, and shipping data.
+The company’s main database structure consists of the following key data tables, with a total row count of approximately 10,000 records in the data sample used. An Entity Relationship Diagram (ERD) is provided below to illustrate the relationships between these tables.
 
 ![ERD](Visuals/ERD.JPG) 
+
+The **SQL queries** used to inspect and clean the data for this analysis can be found [here](./data_cleanup.sql).
 
 ## Executive Summary
 ### Overview of Findings

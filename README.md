@@ -2,7 +2,7 @@
 ![Sales1](Visuals/Theme2.jpg)
 
 ## Project Background
-This analysis focuses on sales performance for a B2B supplier known for delivering tailored business solutions and high-quality products across various industries. It aims to provide strategic insights for stakeholders, including executives and marketing teams, looking to optimize sales strategies and enhance profitability. The analysis targets **Total Sales**, **Total Profit**, and **Net Profit Margin**, with **Net Profit Margin** serving as the North Star Metric due to its crucial role in indicating operational efficiency, while **Total Profit** offers a direct measure of the company's overall profitability. 
+This analysis focuses on sales performance for a B2B supplier known for delivering tailored business solutions and high-quality products across various industries. Covering data from 2009 Q1 to 2012 Q3 and forecasting for the next 3 quarters, it aims to provide strategic insights for stakeholders, including executives and marketing teams, looking to optimize sales strategies and enhance profitability. The analysis targets **Total Sales**, **Total Profit**, and **Net Profit Margin**, with **Net Profit Margin** serving as the North Star Metric due to its crucial role in indicating operational efficiency, while **Total Profit** offers a direct measure of the company's overall profitability. 
 
 Insights and recommendations are provided on the following key areas:
 - Overall Sales Performance

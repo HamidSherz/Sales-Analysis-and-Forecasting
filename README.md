@@ -25,7 +25,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 ### Overview of Findings
 **Profit Peaks and Cyclical Trends**: Technology continues to drive profit peaks (latest in 2012 Q3) with forecasts indicating sustained performance, while Furniture faces ongoing profitability issues.
 
-**Customer Segment and Product Profitability**: The Corporate segment leads in profit generation, producing $600,015 in profits from $5.5M in sales over the whole period, with a 10.9% profit margin. Technology stands out as the most profitable category, though Furniture remains inefficient, generating only $117,000 in profits from $5.17M in sales.
+**Customer Segment and Product Profitability**: The Corporate segment leads in profit generation, producing $600K in profits from $5.5M in sales over the whole period, with a 10.9% profit margin. Technology stands out as the most profitable category, though Furniture remains inefficient, generating only $117K in profits from $5.17M in sales.
 
 **Regional Sales and Profitability**: Ontario and the Prairies yielded strong profits relative to sales throughout the analysed period (2009 Q1 to 2012 Q3), while the Northwest boasted the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggled with lower profitability due to underperforming customers in the Technology category.
 
@@ -37,14 +37,14 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 - Discounting that started in late 2010 triggered slight sales and profit increases for Technology and Office Supplies, but had a detrimental effect on Furniture, where profits dropped below zero, indicating that discounting adversely impacted Furniture’s profitability.
 
-- Technology products consistently recorded the highest profits, notably peaking at approximately $64,000 in 2012 Q3. This highlights Technology's critical contribution to overall profitability during key periods.
+- Technology products consistently recorded the highest profits, notably peaking at approximately $64K in 2012 Q3. This highlights Technology's critical contribution to overall profitability during key periods.
 
 - Forecasting suggests focusing on Technology for sustained profitability, with Furniture showing potential for recovery and Office Supplies maintaining its stable contribution to overall performance.
 
 ![Category 1 Insights](Visuals/Category1.JPG)
 
 ### Category 2: Customer Segment Analysis
-- **Corporate**: Leading the profit race, the Corporate segment generated $600,015 in profits from $5.5M in sales, with a 10.9% profit margin. This demonstrates its efficiency and high profitability, despite only contributing 30% of total sales.
+- **Corporate**: Leading the profit race, the Corporate segment generated $600K in profits from $5.5M in sales, with a 10.9% profit margin. This demonstrates its efficiency and high profitability, despite only contributing 30% of total sales.
 
 - **Small Business**: With $2.7M in sales, Small Business displayed strong growth, particularly in 2009 Q4, where profits spiked despite stable sales, indicating potential for future profit-driven strategies.
 

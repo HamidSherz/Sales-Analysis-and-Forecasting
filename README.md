@@ -52,14 +52,14 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 - **Home Office**: Demonstrating consistent growth, Home Office profits more than doubled from $13K in 2009 Q1 to $36K in 2012 Q1, despite stable sales during this period. This indicates potential improvements in cost management or pricing strategy, suggesting further investment could maximize returns.
 
-![Category 2 Insights](Visuals/Category2.JPG)
+![Category 2 Insights](Visuals/Category.2.JPG)
 
 ### Category 3: Product Category Profitability
-- Technology led in profitability with $885K in profits from $5.97M in sales, resulting in a 14.8% profit margin. The average profit peaked at $569 in 2012 Q3, reinforcing Technology's critical role in the product portfolio.
+- Technology led in profitability with $885K in profits from $5.97M in sales, resulting in a 14.8% profit margin. The profit most recently peaked at $64K in 2012 Q3, and, having just reached that peak, a slight dip is expected in the coming quarters before another increase, reinforcing Technology's critical role in the product portfolio.
 
-- Office Supplies delivered $518K in profits from $3.75M in sales, translating to a 13.8% profit margin. Though slightly lower than Technology, this category remains stable and dependable, with an average profit of around $120.
+- Office Supplies delivered $518K in profits from $3.75M in sales, translating to a 13.8% profit margin. Although it generates slightly less profit than Technology, this category recently reached its cyclical dip at $17K in 2012 Q3, with forecasts expecting an increase in the coming quarters.
 
-- Furniture underperformed, generating only $117K in profits from $5.17M in sales, resulting in a mere 2.3% profit margin. The significant drop in late 2010 suggests discounting had a more pronounced negative effect on this category compared to others.
+- Furniture underperformed, generating only $117K in profits from $5.17M in sales, resulting in a mere 2.3% profit margin. The significant drop in late 2010 suggests discounting had a more pronounced negative effect on this category compared to others. It has recently reached its lowest levels in the last two quarters at around -$5K to -$7K, but cyclical patterns and forecasts expect a fair increase.
 
 - The performance disparity across categories indicates that improving Furniture's efficiency, perhaps through revised pricing or cost management strategies, could enhance overall profitability.
 

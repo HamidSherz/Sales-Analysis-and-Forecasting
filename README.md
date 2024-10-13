@@ -63,7 +63,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 - The performance disparity across categories indicates that improving Furniture's efficiency, perhaps through revised pricing or cost management strategies, could enhance overall profitability.
 
-![Category 3 Insights](Visuals/Category_3.JPG)
+![Category 3 Insights](Visuals/Category.3.JPG)
 
 ### Category 4: Customer Profitability Insights
 #### Top 10 Customers by Highest Profit Margins:
@@ -82,7 +82,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 - **Laurel Workman**: Sustained heavy losses of $13,000 with a margin of -59.5% from $21,000 in sales, reflecting issues likely linked to negative profitability trends in Technology as seen earlier.
 
-![Category 4 Insights](Visuals/Category_4.JPG)
+![Category 4 Insights](Visuals/Category.4.JPG)
 
 ### Category 5: Regional Sales Distribution
 - Ontario led in profitability with $347,000 from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.

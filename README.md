@@ -29,7 +29,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 **Regional Sales and Profitability**: Ontario and the Prairies yielded strong profits relative to sales throughout the analysed period (2009 Q1 to 2012 Q3), while the Northwest boasted the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggled with lower profitability due to underperforming customers in the Technology category.
 
-![Executive Summary](Visuals/Executive_summary.JPG)
+![Executive Summary](Visuals/Executive_summary1.JPG)
 
 ## Insights Deep Dive
 ### Category 1: Overall Sales Performance

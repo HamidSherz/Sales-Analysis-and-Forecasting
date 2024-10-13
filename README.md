@@ -85,15 +85,15 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 ![Category 4 Insights](Visuals/Category.4.JPG)
 
 ### Category 5: Regional Sales Distribution
-- Ontario led in profitability with $347K from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
+- Ontario led in profitability with $347K from $3.1M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
 
-- The West achieved the highest sales at $4M but ranked third in profit with $297K, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
+- The West achieved the highest sales at $3.6M but ranked third in profit with $297K, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
 
-- The Atlantic generated nearly half of the West’s sales but achieved similar profits, indicating a stronger profit-to-sales ratio, reflecting efficient operations in this region. Additionally, the Northwest region boasts the highest profit margin at 12.6%, although it has lower sales of $0.8 million.
+- The Atlantic generated nearly half of the West’s sales but achieved similar profits, indicating a stronger profit-to-sales ratio, reflecting efficient operations in this region. Additionally, the Northwest region boasts the highest profit margin at 12.6%, although it has lower sales of $0.8M.
 
 - Other regions maintained profit margins close to 10%, with Yukon significantly underperforming, possibly due to higher costs or weak sales of high-margin products.
 
-![Category 5 Insights](Visuals/Category_5.JPG)
+![Category 5 Insights](Visuals/Category.5.JPG)
 
 ## Recommendations
 Based on the insights and findings above, I recommend the following actions:

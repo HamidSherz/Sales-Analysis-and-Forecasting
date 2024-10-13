@@ -25,9 +25,9 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 ### Overview of Findings
 **Profit Peaks and Cyclical Trends**: Technology continues to drive profit peaks (latest in 2012 Q3) with forecasts indicating sustained performance, while Furniture faces ongoing profitability issues.
 
-**Customer and Product Profitability**: The Corporate segment leads in profit generation, and Technology is the most profitable category. Atlantic, with a profit margin of 11.9%, reflects efficient operations despite lower sales of $2 million, while Furniture lags in efficiency, requiring attention. 
+**Customer Segment and Product Profitability**: The Corporate segment leads in profit generation, producing $600,015 in profits from $5.5M in sales over the whole period, with a 10.9% profit margin. Technology stands out as the most profitable category, though Furniture remains inefficient, generating only $117,000 in profits from $5.17M in sales.
 
-**Regional Sales and Profitability**: Ontario and the Prairies yield strong profits relative to sales, while the Northwest boasts the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggles with lower profitability due to underperforming customers in the Technology category.
+**Regional Sales and Profitability**: Ontario and the Prairies yielded strong profits relative to sales throughout the analysed period (2009 Q1 to 2012 Q3), while the Northwest boasted the highest profit margin at 12.6%, albeit with lower sales of $0.8 million. The West, despite leading in sales, struggled with lower profitability due to underperforming customers in the Technology category.
 
 ![Executive Summary](Visuals/Executive_summary.JPG)
 

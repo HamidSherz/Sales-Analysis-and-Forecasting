@@ -69,25 +69,25 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 #### Top 10 Customers by Highest Profit Margins:
 - The top 10 customers recorded margins between 36.4% and 40.4%, highlighting efficient cost management and pricing strategies.
 
-- **Gregg Hansen**: Stands out with the highest profit margin of 40.4%, generating $6,000 in profits from $14,000 in sales. Despite lower overall profits, his margin reflects cost control.
+- **Gregg Hansen**: Stands out with the highest profit margin of 40.4%, generating $6K in profits from $14K in sales. Despite lower overall profits, his margin reflects cost control.
 
-- **Karen Carlile**: Contributed the highest absolute profit, earning $22,000 from $59,000 in sales, with a 36.6% profit margin, showing her significant impact on total profitability.
+- **Karen Carlile**: Contributed the highest absolute profit, earning $22K from $59K in sales, with a 36.6% profit margin, showing her significant impact on total profitability.
 
-- **Andy Reiter**: Ranked third, achieved a profit margin of 39.6%, generating $15,000 from $37,000 in sales, aligning with the overall strength of the Technology category.
+- **Andy Reiter**: Ranked third, achieved a profit margin of 39.6%, generating $15K from $37K in sales, aligning with the overall strength of the Technology category.
 
 #### Top 10 Customers with Lowest Net Profit Margins:
 - The lowest 10 customers had negative margins ranging from -57.9% to -106.6%, indicating severe losses.
 
-- **Bradley Talbott**: Reported the worst margin of -106.6%, with losses of $3,000 on sales of $2,655, highlighting critical issues such as pricing or product defects.
+- **Bradley Talbott**: Reported the worst margin of -106.6%, with losses of $3K on sales of less than 3K highlighting critical issues such as pricing or product defects.
 
-- **Laurel Workman**: Sustained heavy losses of $13,000 with a margin of -59.5% from $21,000 in sales, reflecting issues likely linked to negative profitability trends in Technology as seen earlier.
+- **Laurel Workman**: Sustained heavy losses of $13K with a margin of -59.5% from $21K in sales, reflecting issues likely linked to negative profitability trends in Technology as seen earlier.
 
 ![Category 4 Insights](Visuals/Category.4.JPG)
 
 ### Category 5: Regional Sales Distribution
-- Ontario led in profitability with $347,000 from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
+- Ontario led in profitability with $347K from $3M in sales, slightly outperforming Prairies (which earned $318,000 in profit from the same sales figure). The Atlantic region, while generating $2 million in sales, achieved a higher profit margin of 11.9% compared to 11.3% for Ontario and Prairie.
 
-- The West achieved the highest sales at $4M but ranked third in profit with $297,000, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
+- The West achieved the highest sales at $4M but ranked third in profit with $297K, largely due to technology-focused customers sustaining losses, dragging down the region's overall profitability. 
 
 - The Atlantic generated nearly half of the West’s sales but achieved similar profits, indicating a stronger profit-to-sales ratio, reflecting efficient operations in this region. Additionally, the Northwest region boasts the highest profit margin at 12.6%, although it has lower sales of $0.8 million.
 

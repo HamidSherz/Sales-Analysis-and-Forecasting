@@ -41,7 +41,7 @@ The **SQL queries** used to inspect and clean the data for this analysis can be 
 
 - Forecasting suggests focusing on Technology for sustained profitability, with Furniture showing potential for recovery and Office Supplies maintaining its stable contribution to overall performance.
 
-![Category 1 Insights](Visuals/Category_1.JPG)
+![Category 1 Insights](Visuals/Category1.JPG)
 
 ### Category 2: Customer Segment Analysis
 - **Corporate**: Leading the profit race, the Corporate segment generated $600,015 in profits from $5.5M in sales, with a 10.9% profit margin. This demonstrates its efficiency and high profitability, despite only contributing 30% of total sales.

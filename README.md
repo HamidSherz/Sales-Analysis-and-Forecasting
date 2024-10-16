@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - Regional Sales Distribution
 
 
-An interactive **Tableau dashboard** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesProfitabilityDashboard_17280732098650/SalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+A set of interactive **Tableau dashboards** used to report and explore sales trends can be found [here](https://public.tableau.com/views/SalesProfitabilityDashboard_17280732098650/SalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Data Structure & Initial Checks
 The company’s main database structure consists of the following key data tables, with a total row count of approximately 10,000 records in the data sample used. An Entity Relationship Diagram (ERD) is provided below to illustrate the relationships between these tables.
